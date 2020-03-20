@@ -1,0 +1,21 @@
+{
+  "name": "kubedoc",
+  "version": "1.0.0",
+  "description": "Documentation POC for Kubernetes md files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "marked": "^0.3.6"
+  },
+  "dependencies": {
+    "highlight.js": "^9.7.0",
+    "node-static": "^0.7.9"
+  },
+  "engines": {
+    "node": "4.2.3"
+  }
+}

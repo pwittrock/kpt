@@ -148,3 +148,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/GoogleContainerTool
         desc = "Development takes place here!"
 
 
+[[menu.main]]
+    name = "API Reference"
+    weight = 4
+    url = "api-reference/kustomize"
